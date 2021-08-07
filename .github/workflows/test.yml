@@ -1,4 +1,6 @@
-name: test
+# This workflow runs Mitiq tests on all supported platforms and Python versions.
+# Documentation tests are also run if 
+name: Package tests
 
 on:
   pull_request:
